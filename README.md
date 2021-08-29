@@ -1,6 +1,6 @@
 # Java Router
 
-### Bsc-Test
+### Polygon-Test
 
 The following assumes the use of `node@>=10`.
 
